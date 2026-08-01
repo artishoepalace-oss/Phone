@@ -1,0 +1,6 @@
+{
+  "name": "iOS Phone & AI Contacts",
+  "description": "iOS Phone app with keypad dialer, contacts, recents, call screen, voicemail, and Gemini AI smart contact extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
