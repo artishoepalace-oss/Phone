@@ -1,4 +1,4 @@
-name: Phone
+name: Phone 
 
 on:
   push:
